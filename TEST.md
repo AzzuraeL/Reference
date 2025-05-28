@@ -38,9 +38,7 @@ _One sunny morning, Budiman, an Informatics student, was assigned by his lecture
   `Pengerjaan sesuai dengan modul`
 
 - **Screenshot:**
-
-  `Image Folder/Soal 1 Busy Box.jpg, Soal 1 BzImage
-`
+![Screenshot from 2025-05-23 11-37-00](https://github.com/user-attachments/assets/db9fe92e-c8ae-4a30-9598-06436b026e73)
 
 ### Soal 2
 
